@@ -1,0 +1,99 @@
+18806
+{
+  Company: 'Cano Molina Insurance Broker LLC',
+  Email: 'j.cano@canomolinainsurance.com',
+  LastName: 'Cano',
+  Name: 'Jorayne Cano'
+}
+7337
+{
+  Company: 'Cano Molina Insurance Broker LLC',
+  Email: 'j.cano@canomolinainsurance.com',
+  LastName: 'Cano',
+  Name: 'Jorayne Cano'
+}
+{
+  Company: 'SignalWire',
+  Email: 'daniel@signalwire.com',
+  LastName: 'Gotlieb',
+  Name: 'Daniel Gotlieb'
+}
+1000
+{
+  name: 'Axiom Law',
+  company_segment: 'Enterprise',
+  'Weekly Slack Users': '358',
+  'Weekly App Users': '29',
+  'Percent of Slack Users who used this app this month': '16.04',
+  account_owner_name: 'Ryan Libster',
+  account_owner_email: 'rlibster@slack-corp.com',
+  company_url: '<https://mc.tinyspeck.com/god/team.php?id=138938234758|Axiom Law>',
+  team_id: '1.38938E+11',
+  is_enterprise: 'FALSE',
+  is_deleted: 'FALSE',
+  first_install_ds: '2019-12-29',
+  latest_delete_ds: ''
+}
+{
+  name: '',
+  company_segment: '',
+  'Weekly Slack Users': '304',
+  'Weekly App Users': '5',
+  'Percent of Slack Users who used this app this month': '5.21',
+  account_owner_name: '',
+  account_owner_email: '',
+  company_url: '<https://mc.tinyspeck.com/god/team.php?id=996771917332|DataBank IMX>',
+  team_id: '9.96772E+11',
+  is_enterprise: 'FALSE',
+  is_deleted: 'FALSE',
+  first_install_ds: '2020-04-08',
+  latest_delete_ds: ''
+}
+236
+{
+  Company: 'Axiom Law',
+  Email: 'fraser.suyetsugu@axiomlaw.com',
+  LastName: 'Suyetsugu',
+  Name: 'Fraser Suyetsugu'
+}
+{
+  Company: 'Cano Molina Insurance Broker LLC',
+  Email: 'j.cano@canomolinainsurance.com',
+  LastName: 'Cano',
+  Name: 'Jorayne Cano'
+}
+7252
+1000
+{
+  name: 'Axiom Law',
+  company_segment: 'Enterprise',
+  'Weekly Slack Users': '358',
+  'Weekly App Users': '29',
+  'Percent of Slack Users who used this app this month': '16.04',
+  account_owner_name: 'Ryan Libster',
+  account_owner_email: 'rlibster@slack-corp.com',
+  company_url: '<https://mc.tinyspeck.com/god/team.php?id=138938234758|Axiom Law>',
+  team_id: '1.38938E+11',
+  is_enterprise: 'FALSE',
+  is_deleted: 'FALSE',
+  first_install_ds: '2019-12-29',
+  latest_delete_ds: '',
+  contact_name: 'Fraser Suyetsugu',
+  contact_email: 'fraser.suyetsugu@axiomlaw.com'
+}
+{
+  name: '',
+  company_segment: '',
+  'Weekly Slack Users': '304',
+  'Weekly App Users': '5',
+  'Percent of Slack Users who used this app this month': '5.21',
+  account_owner_name: '',
+  account_owner_email: '',
+  company_url: '<https://mc.tinyspeck.com/god/team.php?id=996771917332|DataBank IMX>',
+  team_id: '9.96772E+11',
+  is_enterprise: 'FALSE',
+  is_deleted: 'FALSE',
+  first_install_ds: '2020-04-08',
+  latest_delete_ds: ''
+}
+CSV done!
